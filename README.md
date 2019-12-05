@@ -5,4 +5,4 @@
 - EG1311
 - PC1222
 - MLE1010
-* The files uploaded are some resourses I used during my study. You may use them as reference and I hope they are useful for you :)
+* The files uploaded are some resources I used during my study. You may use them as reference and I hope they are useful for you :)
